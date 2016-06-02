@@ -1,0 +1,27 @@
+header {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    color: #FDFBF9;
+    background-image: url(../image/large.jpg);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.brillo {
+    background: rgba(0,0,0,0.5);
+    height: 100%;
+    width: 100%;
+}
+.well {
+    margin: 200px 350px;
+    background: #181818;
+    border-color: transparent;
+    width: 35%;
+}
+.well img {
+    margin: auto;
+}
